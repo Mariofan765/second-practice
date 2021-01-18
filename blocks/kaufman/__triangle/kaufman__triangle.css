@@ -1,0 +1,11 @@
+@import url('C:/Users/mario/Desktop/how-to-learn-master/blocks/rotation/rotation.css');
+.kaufman__triangle {
+  background-image: url('./kaufman-triangle.svg');
+  width: 877px;
+  height: 877px;
+  position: absolute;
+  background-size: contain;
+  top: 0;
+  right: -210px;
+  animation: rotation 20s linear infinite;
+}

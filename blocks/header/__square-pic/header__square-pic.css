@@ -1,0 +1,11 @@
+@import url('C:/Users/mario/Desktop/how-to-learn-master/blocks/rotation/rotation.css');
+.header__square-pic {
+  width: 568px;
+  height: 568px;
+  position: absolute;
+  right: 0px;
+  top: 64px;
+  z-index: 0;
+  background-color: #2f80ed;
+  animation: rotation 20s linear infinite;
+}
